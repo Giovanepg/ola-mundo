@@ -7,7 +7,7 @@
 
  Giovane Ferreira Paes Ribeiro;
 
- inst: @giovane_fpaes :grin:;
+ inst: @giovane_fpaes :raised_eyebrow:;
 
  contato: 8998247***9.
 
