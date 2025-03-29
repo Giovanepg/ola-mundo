@@ -1,4 +1,4 @@
-# Olá mundo!
+# Olá mundo! 🌍
  ## Meu Primeiro Projeto com Versionamento Git
 
  Este repositório foi criado como parte do curso de extensão em Git e GitHub na UNIFSA.
@@ -18,4 +18,7 @@
 🔹 Git  
 🔹 GitHub Desktop  
 🔹 VS Code  
- 
+
+## Contato
+[Instagram] (https://www.instagram.com/giovane_fpaes?igsh=MWE4OWI0aDl0dTIwcw==)  
+_Telefone: 89981473369_
