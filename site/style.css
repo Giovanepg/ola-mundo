@@ -1,0 +1,40 @@
+
+* {
+   
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: black; 
+}
+
+/* Corpo da página com imagem de fundo */
+body {
+    background-image: url('https://mediahttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4E6WhpirCEDMy0D8g9vOahJBFZGJMqdJ2w&s.istockphoto.com/id/1295201916/pt/foto/old-blank-paper-isolated.jpg?s=612x612&w=0&k=20&c=guArwYnAb672S8XhWWkcHHOxNLYWCS3kUFP_8b_M8i8='); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+/* Subtítulo */
+h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+/* Texto das informações */
+p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+/* Negrito */
+b {
+    font-weight: bold;
+}
